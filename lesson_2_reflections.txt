@@ -1,0 +1,26 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You start a new place to hold different commits. You need to do it in order to track your work.
+
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+
+It allows you to configure code as you want from the working stage and then add that to the repository.
+
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+
+Some situations where branches could be helpful is when you want to start a new version of your game or code without harming the existing code. It will start new commits from the breaking of the branch. 
+
+How do the diagrams help you visualize the branch structure?
+
+We are able to see what changes have been made as the branches break off from one another. It also allows us to see what commit came after what, so what to check if something went wrong.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It will merge the changes of two branches into one commit. Two different people can work on the code and then come together, hopfully to make working code. It is represented as two branches coming together. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pros of Git doing it automatically is that you know that it has been merged. But the con is that maybe it does it when you are done working on the code. The pros of doing it manually is that you can choose when to merge but the con is maybe adding or changing the code to accidentally create a bug.
